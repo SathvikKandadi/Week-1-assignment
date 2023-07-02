@@ -1,2 +1,2 @@
 # Week-1-assignment
-Solutions of Assignment of Fulltstack course by Harkirat
+Solutions of Assignment of Fulltstack course by @Kirat
